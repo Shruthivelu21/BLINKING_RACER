@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Gameoverbg(1)",
+  "identifier": "texture:5137-2414e3d8-6c73-464b-87b5-7d9c7b036dea",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2febf8e9f1f9c29af0cdce4e99e35c1f",
+  "assetLocator": "textures/Gameoverbg(1).jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2febf8e9f1f9c29af0cdce4e99e35c1f",
+      "colorCount": 11350,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 4.215357697629735,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
